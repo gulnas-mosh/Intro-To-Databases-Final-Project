@@ -5,7 +5,6 @@ A normalized MySQL database and R Shiny analytics dashboard for a fictional chee
 The starting point is a single flat CSV export of ~36 columns covering batches of cheese, the farms that supplied the milk, the caves the cheese aged in, the affineurs who tended it, and their guilds. The project designs a 3NF schema for that data, builds it on a cloud-hosted MySQL server (Aiven), loads and validates the data from R, adds a stored procedure for new production records, and puts an interactive dashboard on top.
 
 - **Live dashboard:** [986shh-gulnas0moshkovich.shinyapps.io/finalProjectDashboardMoshkovichG](https://986shh-gulnas0moshkovich.shinyapps.io/finalProjectDashboardMoshkovichG/)
-- **Video demo:** _add your video link here_
 
 > The dataset is synthetic and was provided by the course, so some values may be inconsistent or illogical.
 
