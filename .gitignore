@@ -1,0 +1,15 @@
+# Credentials
+.Renviron
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Deployment records
+rsconnect/
+
+.DS_Store
+
+# Deployment manifest (regenerated on deploy)
+manifest.json
